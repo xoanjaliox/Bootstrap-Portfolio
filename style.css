@@ -1,0 +1,207 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("images/fullbloom.png");
+}
+
+
+.masthead {
+    height: 102px;
+    border-bottom: 2px solid lightgrey;
+    background-color: #ffffff;
+ 
+}
+
+.logo {
+    width: 300px;
+    height: 100px;
+    background-color: #9C33FF;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 700;
+    font-size: 32px;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+
+.nav-link {
+    padding-top: 35px;
+    padding-left: 10px;
+    font-size: 18px;
+    color: #999;
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    color: #9C33FF;
+    
+}
+
+.about-background {
+    margin-top: 50px;
+    width: 920px;
+    height: 375px;
+    background-color: #ffffff;
+    border: 1px solid lightgrey;
+
+}
+
+.portfolio-background {
+    margin-top: 50px;
+    width: 920px;
+    height: 600px;
+    background-color: #ffffff;
+    border: 1px solid lightgrey;
+
+}
+
+.about {
+    padding-top: 25px;
+    padding-left: 20px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 700;
+    font-size: 32px;
+    text-transform: uppercase;
+    color: #9C33FF;
+}
+
+.divider {
+    height: 2px;
+    width: 850px;
+    background-color: lightgray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    color: #999;
+    text-transform: none;
+}
+
+.footer {
+    height: 100px;
+    border-top: 10px solid #9C33FF;
+    background-color: #777777;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 40px;
+    margin-top: 140px;
+}
+
+/* PORTFOLIO CSS */
+
+.portfolio-divider {
+    height: 2px;
+    width: 850px;
+    background-color: lightgray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+
+}
+
+.work {
+    margin-top: 25px;
+}
+
+.work h2 {
+    margin-left: 35px;
+}
+
+.work img {
+    width: 90%;
+    border: 0 none;
+    opacity: 0.8;
+  }
+  
+  .work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 81%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #9C33FF;
+    border-bottom: 0;
+  }
+
+  .work1 {
+      margin-top: 20px;
+      margin-bottom: 10px;
+      margin-left: 15px;
+  }
+
+  .work2 {
+      margin-top: 10px;
+      margin-left: 15px;
+  }
+
+  /* CONTACT CSS */
+
+  .contact {
+    margin-top: 25px;
+  }
+  
+  .contact h2 {
+    margin-left: 35px;
+  }
+
+  .contact-divider {
+    height: 2px;
+    width: 550px;
+    background-color: lightgray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 35px;
+
+  }
+
+  .fname, .lname, .message {
+    margin-left: 50px;
+  }
+
+  input, textarea {
+      width: 500px;
+      margin-left: 50px;
+  }
+
+  .submit-btn {
+      width: 120px;
+      height: 40px;
+      margin-left: 50px;
+      border-radius: 10px;
+      background-color: #9C33FF;
+      color: #ffffff;
+  }
+
+  .contact-background {
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 600px;
+    height: 550px;
+    background-color: #ffffff;
+    border: 1px solid lightgrey;
+
+}
+
+.contact-links {
+    width: 300px;
+    height: 300px;
+    background-color: #ffffff;
+    border: 1px solid lightgrey;
+}
+
+
+
